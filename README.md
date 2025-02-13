@@ -16,7 +16,7 @@ The repository is organized as follows:
 
 Level 3: Task 1 solution is completed and included in this repository.
 
-Level 3: Task 2 solution is completed and included in this repository.
+Level 3: Task 2 solution is completed and included in this repositor.
 
 Level 3: Task 3 solution is completed and included in this repository.
 
@@ -47,3 +47,5 @@ Name: Siddhi Rawat
 🙏 Acknowledgments
 
 Special thanks to Cognifyz Technologies for providing this opportunity and guidance throughout the internship.
+
+
